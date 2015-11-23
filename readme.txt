@@ -5,3 +5,4 @@ readme is a good file
 
 add a new branch to project
 Creating a new branch is quick and simple.
+add a new dev to project

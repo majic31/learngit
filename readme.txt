@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 add a new dev to project
 add a new dev2 to proj
 i am working
+git is a free tool

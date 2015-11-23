@@ -4,4 +4,4 @@ readme is a good file
 4 line
 
 add a new branch to project
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
